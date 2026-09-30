@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Configurações locais
+.env
+
+# Modelos treinados (descomente se não quiser versionar)
+# models/*.pt
+# models/*.pth
+# models/*.h5
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
